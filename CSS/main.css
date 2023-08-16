@@ -749,6 +749,7 @@ header .menu {
     text-transform: uppercase;
     font-weight: normal;
     text-align: center;
+    padding-bottom: 10px;
 }
 
 .our-skills .container>div>p {
